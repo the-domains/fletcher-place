@@ -1,0 +1,28 @@
+name: Fletcher Place
+favicon: null
+layout_spectrum: 0.5688369311392307
+typography_spectrum: 0.47201002994552255
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.016845267731696367
+  lightness: 0.6743239625357091
+  saturation: 0.7883898913860321
+  rhythmicContrast: 0.18000596831552684
+purpose: []
